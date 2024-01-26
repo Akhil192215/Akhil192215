@@ -23,6 +23,6 @@ Full Stack Developer | Tech Enthusiast
 <img src="https://rm.up.railway.app/" width="512px"/>-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akhil192215&icon=0&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Akhil192215&icon=0&color=3)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
